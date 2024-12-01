@@ -1,4 +1,4 @@
-<h1 align="center">Slack Base</h1>
+<h1>Slack Base</h1>
 <hr> 
 
 ### 📕 Sobre
